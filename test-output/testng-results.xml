@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-23T23:29:39 IST" name="Suite" finished-at="2024-10-23T23:29:44 IST" duration-ms="4910">
+  <suite started-at="2024-10-24T00:41:52 IST" name="Default suite" finished-at="2024-10-24T00:41:59 IST" duration-ms="7685">
     <groups>
     </groups>
-    <test started-at="2024-10-23T23:29:39 IST" name="Test" finished-at="2024-10-23T23:29:44 IST" duration-ms="4910">
+    <test started-at="2024-10-24T00:41:52 IST" name="Default test" finished-at="2024-10-24T00:41:59 IST" duration-ms="7685">
       <class name="HerokuApp.LaunchingURL">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:HerokuApp.LaunchingURL@478190fc]" started-at="2024-10-23T23:29:39 IST" name="bsConfig" finished-at="2024-10-23T23:29:39 IST" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:HerokuApp.LaunchingURL@1189dd52]" started-at="2024-10-24T00:41:52 IST" name="bsConfig" finished-at="2024-10-24T00:41:52 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:HerokuApp.LaunchingURL@478190fc]" started-at="2024-10-23T23:29:39 IST" name="bcConfig" finished-at="2024-10-23T23:29:42 IST" duration-ms="3418" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:HerokuApp.LaunchingURL@1189dd52]" started-at="2024-10-24T00:41:52 IST" name="bcConfig" finished-at="2024-10-24T00:41:58 IST" duration-ms="5801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method signature="cawStudios()[pri:0, instance:HerokuApp.LaunchingURL@478190fc]" started-at="2024-10-23T23:29:42 IST" name="cawStudios" finished-at="2024-10-23T23:29:44 IST" duration-ms="1094" status="PASS">
+        <test-method signature="cawStudios()[pri:0, instance:HerokuApp.LaunchingURL@1189dd52]" started-at="2024-10-24T00:41:58 IST" name="cawStudios" finished-at="2024-10-24T00:41:59 IST" duration-ms="1281" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cawStudios -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:HerokuApp.LaunchingURL@478190fc]" started-at="2024-10-23T23:29:44 IST" name="acConfig" finished-at="2024-10-23T23:29:44 IST" duration-ms="335" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:HerokuApp.LaunchingURL@1189dd52]" started-at="2024-10-24T00:41:59 IST" name="acConfig" finished-at="2024-10-24T00:41:59 IST" duration-ms="552" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:HerokuApp.LaunchingURL@478190fc]" started-at="2024-10-23T23:29:44 IST" name="asConfig" finished-at="2024-10-23T23:29:44 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:HerokuApp.LaunchingURL@1189dd52]" started-at="2024-10-24T00:41:59 IST" name="asConfig" finished-at="2024-10-24T00:41:59 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
       </class> <!-- HerokuApp.LaunchingURL -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
